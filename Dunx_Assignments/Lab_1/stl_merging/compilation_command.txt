@@ -1,0 +1,2 @@
+CC -ostl_merging stl_merging.cpp
+

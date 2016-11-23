@@ -1,0 +1,3 @@
+g++ -o InorderSort InorderSort.cpp
+g++ -o stl_sorting stl_sorting.cpp
+g++ -o quick_sort quick_sort.cpp

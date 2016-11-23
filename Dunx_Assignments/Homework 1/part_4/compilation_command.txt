@@ -1,0 +1,4 @@
+g++ -o mergesort mergesort.cpp
+
+// Alternatively
+./compile

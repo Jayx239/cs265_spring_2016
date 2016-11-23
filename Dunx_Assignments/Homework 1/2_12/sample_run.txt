@@ -1,0 +1,8 @@
+./InorderSort "size"
+./stl_sorting "size"
+./quick_sort "size"
+
+
+Ran in dunx
+For testing run
+./run_test_xxxxxxx

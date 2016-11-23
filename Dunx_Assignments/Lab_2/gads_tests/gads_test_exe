@@ -1,0 +1,3 @@
+CC -ogads_tests gads_tests.cpp
+./gads_tests
+

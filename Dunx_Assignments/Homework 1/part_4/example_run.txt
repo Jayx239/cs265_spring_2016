@@ -1,0 +1,5 @@
+./mergesort "filename.txt"
+
+Ran on dunx
+for testing run
+./test_input_xxx

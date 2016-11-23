@@ -1,0 +1,3 @@
+
+perl markov < $1  > $2 
+

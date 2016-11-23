@@ -1,0 +1,4 @@
+./lookupcompare "input size" 
+Ran in dunx
+for testing run
+./run_test_input_xxxxxxxx

@@ -1,0 +1,2 @@
+g++ -otiming_lookup timing_lookup.cpp
+

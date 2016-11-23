@@ -1,0 +1,2 @@
+g++ -obst_example bst_example.cpp
+

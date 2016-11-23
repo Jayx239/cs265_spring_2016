@@ -1,0 +1,4 @@
+g++ -o lookupcompare lookupcompare.cpp
+
+// Alternatively
+./compile

@@ -1,0 +1,3 @@
+./InorderSort 500000
+./stl_sorting 500000
+./quick_sort 500000

@@ -1,0 +1,2 @@
+g++ -ogads_tests gads_tests.cpp
+
