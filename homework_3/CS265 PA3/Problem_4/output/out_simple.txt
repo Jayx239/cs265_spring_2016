@@ -1,0 +1,5 @@
+Flight JNB to LHR
+	Average flight height: 28989 feet w/ std deviation of 0.00 feet
+	Average wind speed: 20 knots w/ std deviation of 0.00 knots
+	Average temperature: -26.00 C w/ std deviation of 0.00 C
+

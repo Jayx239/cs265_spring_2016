@@ -1,0 +1,2 @@
+ g++ -o stl_sorting stl_sorting.cpp
+

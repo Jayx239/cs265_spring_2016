@@ -1,0 +1,13 @@
+Timing Experiment C++ vs Java implementation of Csv parser
+
++----------------------------------------------------------------------- Results -------------------------------------------------------------------------------------------+
+|					Execution Time of File																																	|
+|	Implementation	FL_insurance_sample.csv		SacramentocrimeJanuary2006.csv	Sacramentorealestatetransactions.csv	SalesJan2009.csv	TechCrunchcontinentalUSA.csv	|
+|	C++				207 ms						31 ms							4 ms									4 ms				5 ms							|
+|	Java			15 ms						4 ms							1 ms									6 ms				2 ms							|
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+c++ - directory 4_5
+java - directory 4_6
+After testing the c++ and java Csv parsers with various csv inputs, it was found that the java implementation was significantly faster in all but one test. The faster time
+found in the java implementation can be partly attributed to the efficiency of the language. Apart from that, the java implementation uses less method calls than the c++ implementation
+which leads to quicker execution time as method calls require more time consuming memory management.

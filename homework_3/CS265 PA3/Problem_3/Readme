@@ -1,0 +1,19 @@
+Readme
+Problem 3
+Jason Gallagher
+Python CSV Parser
+File: csv.py
+Testing files: input.txt
+Testing script: csvValidate.py
+
+This implimentation of a csv parser written in python sorts a csv file and prints out each element with the row and column it is found at in the document. Provided with the parser
+a python script for validating the parse.
+
+
+make commands for running
+make run  #runs the application
+make clean #removes output file
+make validate #runs a python validation script displaying each input line and the resulting output elements
+
+
+Developed on Tux

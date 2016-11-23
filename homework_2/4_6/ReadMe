@@ -1,0 +1,14 @@
+The Csv java application imports a csv file and parses it, storing each comma delimitted entry and printing it out to the console.
+The application takes the input file path as the first command line arguement.
+The run time of the Csv parser is taken and printed out to the console. The number of lines is also printed out to the console.
+
+For testing run test_script, this will run the makefile and the application with a sample input csv file
+ie: ./test_script
+
+Using MakeFile:
+make - compiles code with dependencies
+make run - runs the application with test data
+
+Alternatively
+To compile: javac Csv.java
+To run: java Csv [filename]

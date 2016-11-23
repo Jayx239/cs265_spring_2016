@@ -1,0 +1,2 @@
+g++ -osearch search.cpp
+

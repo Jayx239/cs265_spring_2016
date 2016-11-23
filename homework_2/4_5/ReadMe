@@ -1,0 +1,13 @@
+The 4_5 application is a Csv parser application. The application takes in a input file path of a csv file.
+The application than parses the file seperating each of the comma delimitted entries and prints them to the console (line by line). Timing of the parsing process is done and printed to the console, followed by the number of lines in the Csv file.
+
+For testing run test_script, this will run the makefile and run the application with a sample csv file.
+ie: ./test_script
+
+Using MakeFile:
+make - compiles code with dependencies
+make run - runs the application with test data
+
+Alternatively:
+To compile: gcc -o 4_5 4_5.cpp
+To run: ./4_5 [filepath]

@@ -1,0 +1,1 @@
+CC -o hello hello.cpp 

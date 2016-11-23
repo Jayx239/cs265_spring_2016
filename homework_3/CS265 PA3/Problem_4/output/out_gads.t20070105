@@ -1,0 +1,485 @@
+Flight JNB to LHR
+	Average flight height: 34578 feet w/ std deviation of 2506.88 feet
+	Average wind speed: 50 knots w/ std deviation of 24.14 knots
+	Average temperature: -46.08 C w/ std deviation of 10.96 C
+
+Flight JFK to ???
+	Average flight height: 30786 feet w/ std deviation of 0.00 feet
+	Average wind speed: 0 knots w/ std deviation of 0.00 knots
+	Average temperature: 11.00 C w/ std deviation of 0.00 C
+
+Flight GRU to LHR
+	Average flight height: 36091 feet w/ std deviation of 1966.96 feet
+	Average wind speed: 36 knots w/ std deviation of 18.96 knots
+	Average temperature: -50.48 C w/ std deviation of 9.06 C
+
+Flight BKK to LHR
+	Average flight height: 33373 feet w/ std deviation of 2295.44 feet
+	Average wind speed: 53 knots w/ std deviation of 26.71 knots
+	Average temperature: -52.81 C w/ std deviation of 6.22 C
+
+Flight LHR to PHX
+	Average flight height: 36967 feet w/ std deviation of 1927.79 feet
+	Average wind speed: 74 knots w/ std deviation of 41.89 knots
+	Average temperature: -45.46 C w/ std deviation of 3.10 C
+
+Flight PHX to LHR
+	Average flight height: 35169 feet w/ std deviation of 1370.74 feet
+	Average wind speed: 87 knots w/ std deviation of 26.54 knots
+	Average temperature: -52.18 C w/ std deviation of 5.25 C
+
+Flight JFK to LHR
+	Average flight height: 35348 feet w/ std deviation of 1163.41 feet
+	Average wind speed: 68 knots w/ std deviation of 13.41 knots
+	Average temperature: -53.57 C w/ std deviation of 4.12 C
+
+Flight LHR to JFK
+	Average flight height: 36504 feet w/ std deviation of 1676.93 feet
+	Average wind speed: 57 knots w/ std deviation of 12.01 knots
+	Average temperature: -51.80 C w/ std deviation of 6.99 C
+
+Flight HKG to LHR
+	Average flight height: 34129 feet w/ std deviation of 2774.55 feet
+	Average wind speed: 41 knots w/ std deviation of 16.79 knots
+	Average temperature: -58.23 C w/ std deviation of 4.05 C
+
+Flight HKG to LHR
+	Average flight height: 35544 feet w/ std deviation of 1379.14 feet
+	Average wind speed: 44 knots w/ std deviation of 13.87 knots
+	Average temperature: -57.45 C w/ std deviation of 4.45 C
+
+Flight LHR to CPT
+	Average flight height: 34250 feet w/ std deviation of 2923.06 feet
+	Average wind speed: 38 knots w/ std deviation of 18.96 knots
+	Average temperature: -45.54 C w/ std deviation of 4.98 C
+
+Flight LOS to LHR
+	Average flight height: 36901 feet w/ std deviation of 1514.17 feet
+	Average wind speed: 45 knots w/ std deviation of 10.43 knots
+	Average temperature: -53.25 C w/ std deviation of 7.22 C
+
+Flight CPT to LHR
+	Average flight height: 30740 feet w/ std deviation of 594.40 feet
+	Average wind speed: 29 knots w/ std deviation of 5.89 knots
+	Average temperature: -33.06 C w/ std deviation of 1.63 C
+
+Flight LHR to SFO
+	Average flight height: 36305 feet w/ std deviation of 906.50 feet
+	Average wind speed: 43 knots w/ std deviation of 21.36 knots
+	Average temperature: -52.74 C w/ std deviation of 4.70 C
+
+Flight SFO to LHR
+	Average flight height: 34704 feet w/ std deviation of 1492.52 feet
+	Average wind speed: 80 knots w/ std deviation of 25.10 knots
+	Average temperature: -50.21 C w/ std deviation of 3.99 C
+
+Flight LHR to PHX
+	Average flight height: 34877 feet w/ std deviation of 1186.49 feet
+	Average wind speed: 30 knots w/ std deviation of 20.91 knots
+	Average temperature: -56.44 C w/ std deviation of 5.91 C
+
+Flight ISB to LHR
+	Average flight height: 35317 feet w/ std deviation of 2108.24 feet
+	Average wind speed: 42 knots w/ std deviation of 17.05 knots
+	Average temperature: -57.68 C w/ std deviation of 5.06 C
+
+Flight LHR to ISB
+	Average flight height: 36866 feet w/ std deviation of 571.84 feet
+	Average wind speed: 62 knots w/ std deviation of 19.65 knots
+	Average temperature: -57.57 C w/ std deviation of 5.35 C
+
+Flight LHR to NRT
+	Average flight height: 36384 feet w/ std deviation of 676.12 feet
+	Average wind speed: 43 knots w/ std deviation of 12.26 knots
+	Average temperature: -62.81 C w/ std deviation of 3.07 C
+
+Flight NRT to LHR
+	Average flight height: 35608 feet w/ std deviation of 3229.44 feet
+	Average wind speed: 41 knots w/ std deviation of 16.51 knots
+	Average temperature: -59.54 C w/ std deviation of 4.92 C
+
+Flight LHR to YVR
+	Average flight height: 33899 feet w/ std deviation of 658.86 feet
+	Average wind speed: 39 knots w/ std deviation of 22.26 knots
+	Average temperature: -53.27 C w/ std deviation of 4.95 C
+
+Flight HKG to LHR
+	Average flight height: 30716 feet w/ std deviation of 945.87 feet
+	Average wind speed: 83 knots w/ std deviation of 40.41 knots
+	Average temperature: -46.75 C w/ std deviation of 12.22 C
+
+Flight LHR to HKG
+	Average flight height: 34040 feet w/ std deviation of 2226.05 feet
+	Average wind speed: 64 knots w/ std deviation of 36.32 knots
+	Average temperature: -55.25 C w/ std deviation of 6.15 C
+
+Flight CPT to LHR
+	Average flight height: 35084 feet w/ std deviation of 1482.66 feet
+	Average wind speed: 37 knots w/ std deviation of 22.12 knots
+	Average temperature: -48.40 C w/ std deviation of 8.12 C
+
+Flight LHR to CPT
+	Average flight height: 36302 feet w/ std deviation of 1117.79 feet
+	Average wind speed: 37 knots w/ std deviation of 20.03 knots
+	Average temperature: -48.49 C w/ std deviation of 2.20 C
+
+Flight LHR to CPT
+	Average flight height: 32956 feet w/ std deviation of 2047.37 feet
+	Average wind speed: 26 knots w/ std deviation of 12.56 knots
+	Average temperature: -51.04 C w/ std deviation of 4.03 C
+
+Flight BOM to LHR
+	Average flight height: 34438 feet w/ std deviation of 2727.46 feet
+	Average wind speed: 71 knots w/ std deviation of 27.21 knots
+	Average temperature: -46.92 C w/ std deviation of 8.27 C
+
+Flight LHR to BOM
+	Average flight height: 35069 feet w/ std deviation of 1402.07 feet
+	Average wind speed: 69 knots w/ std deviation of 30.96 knots
+	Average temperature: -47.92 C w/ std deviation of 4.64 C
+
+Flight DXB to LHR
+	Average flight height: 33934 feet w/ std deviation of 2430.29 feet
+	Average wind speed: 67 knots w/ std deviation of 27.51 knots
+	Average temperature: -52.45 C w/ std deviation of 8.02 C
+
+Flight LHR to SEA
+	Average flight height: 34781 feet w/ std deviation of 972.89 feet
+	Average wind speed: 37 knots w/ std deviation of 20.23 knots
+	Average temperature: -55.90 C w/ std deviation of 6.49 C
+
+Flight LHR to MIA
+	Average flight height: 32997 feet w/ std deviation of 3311.79 feet
+	Average wind speed: 64 knots w/ std deviation of 15.63 knots
+	Average temperature: -52.67 C w/ std deviation of 4.61 C
+
+Flight LHR to MRU
+	Average flight height: 32368 feet w/ std deviation of 1004.18 feet
+	Average wind speed: 55 knots w/ std deviation of 21.18 knots
+	Average temperature: -49.55 C w/ std deviation of 3.08 C
+
+Flight EZE to GRU
+	Average flight height: 37374 feet w/ std deviation of 2560.27 feet
+	Average wind speed: 47 knots w/ std deviation of 23.72 knots
+	Average temperature: -50.28 C w/ std deviation of 6.05 C
+
+Flight GRU to EZE
+	Average flight height: 36712 feet w/ std deviation of 2825.69 feet
+	Average wind speed: 41 knots w/ std deviation of 24.47 knots
+	Average temperature: -48.21 C w/ std deviation of 6.36 C
+
+Flight LHR to GRU
+	Average flight height: 34872 feet w/ std deviation of 2051.37 feet
+	Average wind speed: 34 knots w/ std deviation of 13.42 knots
+	Average temperature: -49.22 C w/ std deviation of 3.63 C
+
+Flight CAI to LHR
+	Average flight height: 36416 feet w/ std deviation of 1347.71 feet
+	Average wind speed: 56 knots w/ std deviation of 25.21 knots
+	Average temperature: -55.54 C w/ std deviation of 5.40 C
+
+Flight LHR to CPT
+	Average flight height: 30887 feet w/ std deviation of 520.51 feet
+	Average wind speed: 39 knots w/ std deviation of 11.28 knots
+	Average temperature: -48.14 C w/ std deviation of 1.01 C
+
+Flight LHR to SIN
+	Average flight height: 34209 feet w/ std deviation of 2361.58 feet
+	Average wind speed: 60 knots w/ std deviation of 29.56 knots
+	Average temperature: -49.56 C w/ std deviation of 4.39 C
+
+Flight SIN to LHR
+	Average flight height: 31052 feet w/ std deviation of 1015.28 feet
+	Average wind speed: 48 knots w/ std deviation of 33.64 knots
+	Average temperature: -34.19 C w/ std deviation of 4.59 C
+
+Flight BOM to LHR
+	Average flight height: 35083 feet w/ std deviation of 2255.84 feet
+	Average wind speed: 54 knots w/ std deviation of 23.06 knots
+	Average temperature: -53.63 C w/ std deviation of 8.49 C
+
+Flight LHR to SEA
+	Average flight height: 37434 feet w/ std deviation of 968.94 feet
+	Average wind speed: 34 knots w/ std deviation of 6.26 knots
+	Average temperature: -53.24 C w/ std deviation of 3.52 C
+
+Flight SEA to LHR
+	Average flight height: 36084 feet w/ std deviation of 1409.12 feet
+	Average wind speed: 40 knots w/ std deviation of 17.11 knots
+	Average temperature: -51.45 C w/ std deviation of 2.65 C
+
+Flight LHR to JFK
+	Average flight height: 34273 feet w/ std deviation of 2709.34 feet
+	Average wind speed: 71 knots w/ std deviation of 16.72 knots
+	Average temperature: -51.12 C w/ std deviation of 2.51 C
+
+Flight LHR to JFK
+	Average flight height: 37517 feet w/ std deviation of 1231.17 feet
+	Average wind speed: 65 knots w/ std deviation of 12.12 knots
+	Average temperature: -50.54 C w/ std deviation of 3.64 C
+
+Flight BKK to ???
+	Average flight height: 35909 feet w/ std deviation of 1205.97 feet
+	Average wind speed: 29 knots w/ std deviation of 6.69 knots
+	Average temperature: -43.68 C w/ std deviation of 3.35 C
+
+Flight BKK to LHR
+	Average flight height: 30987 feet w/ std deviation of 1027.00 feet
+	Average wind speed: 49 knots w/ std deviation of 30.21 knots
+	Average temperature: -33.12 C w/ std deviation of 3.27 C
+
+Flight LHR to JFK
+	Average flight height: 36895 feet w/ std deviation of 1660.80 feet
+	Average wind speed: 75 knots w/ std deviation of 17.49 knots
+	Average temperature: -52.50 C w/ std deviation of 5.02 C
+
+Flight LHR to NRT
+	Average flight height: 36729 feet w/ std deviation of 1195.16 feet
+	Average wind speed: 52 knots w/ std deviation of 13.16 knots
+	Average temperature: -61.83 C w/ std deviation of 4.20 C
+
+Flight NRT to LHR
+	Average flight height: 34680 feet w/ std deviation of 3150.54 feet
+	Average wind speed: 45 knots w/ std deviation of 16.15 knots
+	Average temperature: -58.97 C w/ std deviation of 5.06 C
+
+Flight LHR to JNB
+	Average flight height: 32861 feet w/ std deviation of 601.92 feet
+	Average wind speed: 35 knots w/ std deviation of 7.63 knots
+	Average temperature: -51.33 C w/ std deviation of 1.42 C
+
+Flight DEL to LHR
+	Average flight height: 35510 feet w/ std deviation of 1592.08 feet
+	Average wind speed: 52 knots w/ std deviation of 24.77 knots
+	Average temperature: -55.88 C w/ std deviation of 6.22 C
+
+Flight SIN to LHR
+	Average flight height: 36549 feet w/ std deviation of 1599.90 feet
+	Average wind speed: 45 knots w/ std deviation of 18.85 knots
+	Average temperature: -56.73 C w/ std deviation of 4.10 C
+
+Flight LHR to MIA
+	Average flight height: 34665 feet w/ std deviation of 1189.48 feet
+	Average wind speed: 74 knots w/ std deviation of 19.24 knots
+	Average temperature: -55.55 C w/ std deviation of 4.04 C
+
+Flight BKK to SYD
+	Average flight height: 34728 feet w/ std deviation of 1132.06 feet
+	Average wind speed: 38 knots w/ std deviation of 23.85 knots
+	Average temperature: -40.46 C w/ std deviation of 2.90 C
+
+Flight LHR to BKK
+	Average flight height: 35224 feet w/ std deviation of 2400.09 feet
+	Average wind speed: 60 knots w/ std deviation of 30.93 knots
+	Average temperature: -52.58 C w/ std deviation of 4.92 C
+
+Flight LHR to MEX
+	Average flight height: 32866 feet w/ std deviation of 1050.66 feet
+	Average wind speed: 63 knots w/ std deviation of 21.19 knots
+	Average temperature: -52.25 C w/ std deviation of 2.45 C
+
+Flight LHR to JFK
+	Average flight height: 35901 feet w/ std deviation of 643.19 feet
+	Average wind speed: 84 knots w/ std deviation of 23.27 knots
+	Average temperature: -52.92 C w/ std deviation of 3.31 C
+
+Flight JFK to LHR
+	Average flight height: 36864 feet w/ std deviation of 905.86 feet
+	Average wind speed: 77 knots w/ std deviation of 19.34 knots
+	Average temperature: -57.08 C w/ std deviation of 4.68 C
+
+Flight LHR to JFK
+	Average flight height: 36502 feet w/ std deviation of 1409.52 feet
+	Average wind speed: 68 knots w/ std deviation of 21.44 knots
+	Average temperature: -53.04 C w/ std deviation of 6.03 C
+
+Flight LHR to ???
+	Average flight height: 35924 feet w/ std deviation of 1680.71 feet
+	Average wind speed: 75 knots w/ std deviation of 6.55 knots
+	Average temperature: -52.87 C w/ std deviation of 2.78 C
+
+Flight LHR to IAD
+	Average flight height: 35400 feet w/ std deviation of 1796.90 feet
+	Average wind speed: 69 knots w/ std deviation of 16.45 knots
+	Average temperature: -51.75 C w/ std deviation of 3.48 C
+
+Flight LAX to LHR
+	Average flight height: 33979 feet w/ std deviation of 1464.28 feet
+	Average wind speed: 83 knots w/ std deviation of 29.41 knots
+	Average temperature: -48.10 C w/ std deviation of 4.69 C
+
+Flight LHR to LAX
+	Average flight height: 37537 feet w/ std deviation of 1041.65 feet
+	Average wind speed: 99 knots w/ std deviation of 33.86 knots
+	Average temperature: -43.84 C w/ std deviation of 1.98 C
+
+Flight LHR to JNB
+	Average flight height: 30601 feet w/ std deviation of 851.57 feet
+	Average wind speed: 57 knots w/ std deviation of 2.77 knots
+	Average temperature: -47.43 C w/ std deviation of 1.84 C
+
+Flight CPT to LHR
+	Average flight height: 33123 feet w/ std deviation of 2949.12 feet
+	Average wind speed: 43 knots w/ std deviation of 19.23 knots
+	Average temperature: -43.00 C w/ std deviation of 11.72 C
+
+Flight LHR to NBO
+	Average flight height: 36094 feet w/ std deviation of 1441.39 feet
+	Average wind speed: 55 knots w/ std deviation of 34.21 knots
+	Average temperature: -50.39 C w/ std deviation of 5.66 C
+
+Flight NBO to LHR
+	Average flight height: 33147 feet w/ std deviation of 2423.83 feet
+	Average wind speed: 57 knots w/ std deviation of 33.05 knots
+	Average temperature: -45.05 C w/ std deviation of 11.00 C
+
+Flight LHR to CAI
+	Average flight height: 36753 feet w/ std deviation of 1188.15 feet
+	Average wind speed: 61 knots w/ std deviation of 26.68 knots
+	Average temperature: -54.53 C w/ std deviation of 5.01 C
+
+Flight LHR to LAX
+	Average flight height: 33065 feet w/ std deviation of 891.07 feet
+	Average wind speed: 32 knots w/ std deviation of 24.54 knots
+	Average temperature: -55.95 C w/ std deviation of 5.91 C
+
+Flight LHR to LOS
+	Average flight height: 33843 feet w/ std deviation of 1153.02 feet
+	Average wind speed: 31 knots w/ std deviation of 12.14 knots
+	Average temperature: -49.39 C w/ std deviation of 4.70 C
+
+Flight LHR to BOM
+	Average flight height: 36116 feet w/ std deviation of 1298.54 feet
+	Average wind speed: 68 knots w/ std deviation of 32.00 knots
+	Average temperature: -54.47 C w/ std deviation of 4.31 C
+
+Flight GRU to LHR
+	Average flight height: 35188 feet w/ std deviation of 1545.28 feet
+	Average wind speed: 41 knots w/ std deviation of 20.71 knots
+	Average temperature: -48.27 C w/ std deviation of 7.94 C
+
+Flight LHR to GRU
+	Average flight height: 37813 feet w/ std deviation of 988.03 feet
+	Average wind speed: 33 knots w/ std deviation of 5.38 knots
+	Average temperature: -51.43 C w/ std deviation of 3.02 C
+
+Flight LHR to NRT
+	Average flight height: 34520 feet w/ std deviation of 1732.74 feet
+	Average wind speed: 39 knots w/ std deviation of 20.22 knots
+	Average temperature: -59.13 C w/ std deviation of 4.55 C
+
+Flight LHR to NRT
+	Average flight height: 33149 feet w/ std deviation of 1558.20 feet
+	Average wind speed: 38 knots w/ std deviation of 20.16 knots
+	Average temperature: -57.21 C w/ std deviation of 4.94 C
+
+Flight LHR to JFK
+	Average flight height: 28517 feet w/ std deviation of 0.00 feet
+	Average wind speed: 65 knots w/ std deviation of 0.00 knots
+	Average temperature: -45.00 C w/ std deviation of 0.00 C
+
+Flight LHR to HKG
+	Average flight height: 31393 feet w/ std deviation of 786.24 feet
+	Average wind speed: 60 knots w/ std deviation of 6.08 knots
+	Average temperature: -53.10 C w/ std deviation of 1.49 C
+
+Flight LHR to YVR
+	Average flight height: 36640 feet w/ std deviation of 1624.95 feet
+	Average wind speed: 30 knots w/ std deviation of 8.69 knots
+	Average temperature: -56.28 C w/ std deviation of 2.69 C
+
+Flight YVR to LHR
+	Average flight height: 35626 feet w/ std deviation of 1603.68 feet
+	Average wind speed: 37 knots w/ std deviation of 18.86 knots
+	Average temperature: -54.10 C w/ std deviation of 4.21 C
+
+Flight HKG to LHR
+	Average flight height: 30747 feet w/ std deviation of 2171.08 feet
+	Average wind speed: 98 knots w/ std deviation of 44.27 knots
+	Average temperature: -40.84 C w/ std deviation of 12.07 C
+
+Flight LHR to HKG
+	Average flight height: 33767 feet w/ std deviation of 1365.33 feet
+	Average wind speed: 62 knots w/ std deviation of 36.24 knots
+	Average temperature: -54.94 C w/ std deviation of 6.76 C
+
+Flight DEL to LHR
+	Average flight height: 34263 feet w/ std deviation of 2492.82 feet
+	Average wind speed: 58 knots w/ std deviation of 24.41 knots
+	Average temperature: -54.97 C w/ std deviation of 6.18 C
+
+Flight LHR to DEL
+	Average flight height: 36105 feet w/ std deviation of 1456.56 feet
+	Average wind speed: 61 knots w/ std deviation of 28.41 knots
+	Average temperature: -56.47 C w/ std deviation of 5.31 C
+
+Flight HKG to LHR
+	Average flight height: 34873 feet w/ std deviation of 2713.98 feet
+	Average wind speed: 43 knots w/ std deviation of 20.04 knots
+	Average temperature: -58.47 C w/ std deviation of 4.48 C
+
+Flight LHR to DXB
+	Average flight height: 37140 feet w/ std deviation of 1809.95 feet
+	Average wind speed: 73 knots w/ std deviation of 36.22 knots
+	Average temperature: -54.86 C w/ std deviation of 4.06 C
+
+Flight HKG to LHR
+	Average flight height: 31472 feet w/ std deviation of 327.26 feet
+	Average wind speed: 97 knots w/ std deviation of 34.10 knots
+	Average temperature: -39.15 C w/ std deviation of 6.34 C
+
+Flight LHR to HKG
+	Average flight height: 35402 feet w/ std deviation of 2074.55 feet
+	Average wind speed: 67 knots w/ std deviation of 39.91 knots
+	Average temperature: -55.39 C w/ std deviation of 6.11 C
+
+Flight JFK to LHR
+	Average flight height: 37296 feet w/ std deviation of 1462.50 feet
+	Average wind speed: 63 knots w/ std deviation of 13.91 knots
+	Average temperature: -55.14 C w/ std deviation of 5.71 C
+
+Flight LHR to JFK
+	Average flight height: 35744 feet w/ std deviation of 846.65 feet
+	Average wind speed: 58 knots w/ std deviation of 7.18 knots
+	Average temperature: -58.83 C w/ std deviation of 2.23 C
+
+Flight LAX to LHR
+	Average flight height: 34818 feet w/ std deviation of 2401.93 feet
+	Average wind speed: 80 knots w/ std deviation of 29.28 knots
+	Average temperature: -47.03 C w/ std deviation of 4.00 C
+
+Flight LHR to LAX
+	Average flight height: 35633 feet w/ std deviation of 670.69 feet
+	Average wind speed: 49 knots w/ std deviation of 37.70 knots
+	Average temperature: -48.99 C w/ std deviation of 5.77 C
+
+Flight JNB to LHR
+	Average flight height: 30830 feet w/ std deviation of 572.10 feet
+	Average wind speed: 11 knots w/ std deviation of 7.55 knots
+	Average temperature: -30.16 C w/ std deviation of 1.09 C
+
+Flight LHR to JNB
+	Average flight height: 35539 feet w/ std deviation of 2406.38 feet
+	Average wind speed: 45 knots w/ std deviation of 25.70 knots
+	Average temperature: -47.23 C w/ std deviation of 4.38 C
+
+Flight LHR to LAX
+	Average flight height: 33427 feet w/ std deviation of 917.77 feet
+	Average wind speed: 28 knots w/ std deviation of 22.61 knots
+	Average temperature: -54.72 C w/ std deviation of 5.16 C
+
+Flight JNB to LHR
+	Average flight height: 35748 feet w/ std deviation of 1205.32 feet
+	Average wind speed: 56 knots w/ std deviation of 21.73 knots
+	Average temperature: -49.39 C w/ std deviation of 7.68 C
+
+Flight JNB to LHR
+	Average flight height: 31594 feet w/ std deviation of 1493.79 feet
+	Average wind speed: 20 knots w/ std deviation of 13.77 knots
+	Average temperature: -32.75 C w/ std deviation of 4.20 C
+
+Flight LHR to JNB
+	Average flight height: 35565 feet w/ std deviation of 2311.54 feet
+	Average wind speed: 42 knots w/ std deviation of 30.02 knots
+	Average temperature: -45.62 C w/ std deviation of 4.12 C
+

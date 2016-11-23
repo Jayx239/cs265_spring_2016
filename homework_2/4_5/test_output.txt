@@ -1,0 +1,18 @@
+line = ‘10,4,"every",10239123,"lolzzz","slasdkasd"’
+field[0] = `10'
+field[1] = `4'
+field[2] = `every'
+field[3] = `10239123'
+field[4] = `lolzzz'
+field[5] = `slasdkasd'
+line = ‘’
+line = ‘30,12,"peals","laors",1232,"pull"’
+field[0] = `30'
+field[1] = `12'
+field[2] = `peals'
+field[3] = `laors'
+field[4] = `1232'
+field[5] = `pull'
+Execution Time: 0 ms
+Lines: 3
+

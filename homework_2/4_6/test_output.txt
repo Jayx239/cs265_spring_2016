@@ -1,0 +1,17 @@
+File input line 1:
+Entry 0: 10
+Entry 1: 4
+Entry 2: every
+Entry 3: 10239123
+Entry 4: lolzzz
+Entry 5: slasdkasd
+File input line 2:
+Entry 0: 30
+Entry 1: 12
+Entry 2: peals
+Entry 3: laors
+Entry 4: 1232
+Entry 5: pull
+Elapsed Time: 0
+Lines:2
+

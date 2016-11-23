@@ -1,0 +1,7 @@
+run: csv.o
+
+csv.o:
+	python csv.py input.txt output.txt
+clean:
+	rm output.txt
+

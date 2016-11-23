@@ -1,0 +1,18 @@
+This java application quickly imports flight coordinate GADS data from a file.
+The file is passed into the application with the first command line arguement. If this is the only arguement, the first data entry of the first flight will be printed out to the console.
+If more than one arguement is entered, the application will run in user input mode which runs a command line interface in which the user can request data via flight number and data entry.
+
+For testing run test_script, this will run the makefile for the application and than run the application 5 times with different input files.
+ie: ./test_script
+
+For user input mode, run the run_in_user_input_mode script.
+ie: ./run_in_user_input_mode
+
+Using MakeFile:
+make - compiles code with dependencies
+make run - runs the application with test data
+make runuserentry - runs the application in user entry mode.
+
+Alternative:
+To compile: javac GADS.java
+To run: java GADS [filepath] [optional: userEntryMode]

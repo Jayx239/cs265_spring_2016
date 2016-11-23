@@ -1,0 +1,3 @@
+javac QuickSortTest.java
+java QuickSortTest
+

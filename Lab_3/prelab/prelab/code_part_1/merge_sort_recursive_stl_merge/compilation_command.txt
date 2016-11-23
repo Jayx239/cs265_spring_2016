@@ -1,0 +1,1 @@
+g++ -omerge_sort merge_sort.cpp

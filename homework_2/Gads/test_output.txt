@@ -1,0 +1,23 @@
+Data at index 1:
+Index: 1
+Date: 20070101
+Time: 021352
+WindSpeed: 60
+Height: 28512
+WindAngle: 314
+Latitude: 42.470
+Longitude: -69.092
+Temperature: -39
+MachNumber: 0.806
+GroundSpeed: 515
+MinimumVerticalAcceleration: 0.981
+MaximumVerticalAcceleration: 0.992
+Weight: 278251
+Average Flight Height: 36696.69014084507
+Average Wind Speed: 78.2394366197183
+Average Temperature: -54.92253521126761
+Flight Height Standard Deviation: 1061.4563419939307
+Wind Speed Standard Deviation: 29.3391843875673
+Temperature Standard Deviation: 5.8899220966917865
+
+

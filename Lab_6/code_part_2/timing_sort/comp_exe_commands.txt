@@ -1,0 +1,3 @@
+javac TimingSort.java
+java TimingSort 1000000
+

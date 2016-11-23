@@ -1,0 +1,4 @@
+//compilation
+javac QuickSortJava.java
+//execution
+java QuickSortJava
